@@ -1,0 +1,48 @@
+ .menu-body {
+  font-family: helvetica, sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+  max-width: 900px;
+  background: #ffffff;
+}
+
+.menu-section {
+  margin-bottom: 80px;
+}
+
+.menu-section-title {
+  font-family: Courgette;
+  color: #232323;
+  font-size: 30px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0; 
+  text-align: Center;
+   transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+}
+
+.menu-item {
+  margin: 35px 0;
+  font-size: 15px;
+}
+
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+  border-bottom: 2px dotted #232323;
+}
+
+.menu-item-description {
+  font-style: italic;
+  font-size: 15px;
+  line-height: 1.5em;
+}
+
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: helvetica;
+  margin-top: 22px;
+}
